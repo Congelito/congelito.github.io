@@ -34,11 +34,11 @@ body {
 .sprite {
     position: absolute;
 
-    width: 150px;
+    width: 200px;
     height: auto;
 
-    left: 52%;
-    top: 58%;
+    left: 53%;
+    top: 60%;
 
     transform: translate(-50%, -50%);
 
