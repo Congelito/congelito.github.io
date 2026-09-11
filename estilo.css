@@ -32,14 +32,15 @@ body {
 }
 
 .sprite {
-    position: absolute !important;
-    width: 300px !important;
-    height: auto !important;
+    position: absolute;
 
-    top: 70% !important;
-    left: 50% !important;
+    width: 150px;
+    height: auto;
 
-    transform: translate(-50%, -50%) !important;
+    left: 50%;
+    top: 58%;
+
+    transform: translate(-50%, -50%);
 
     z-index: 10;
     cursor: pointer;
