@@ -33,14 +33,19 @@ body {
 
 .sprite {
     position: absolute;
+    width: 150px;
     height: auto;
-    width: 300px;
 
     top: 58%;
     left: 50%;
+
     transform: translate(-50%, -50%);
-
     z-index: 2;
-
     cursor: pointer;
+
+    transition: transform 0.2s ease;
+}
+
+.sprite:hover {
+    transform: translate(-50%, -50%) scale(1.05);
 }
