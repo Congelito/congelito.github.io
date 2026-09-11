@@ -33,7 +33,6 @@ body {
 
 .sprite {
     position: absolute;
-    width: 150px;
     height: auto;
 
     top: 50%;
