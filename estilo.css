@@ -18,11 +18,11 @@ html, body {
 
 .cena {
     position: relative;
-    aspect-ratio: 1920 / 1080; 
+    aspect-ratio: 1708 / 960;
     width: 100vw;
     height: 100vh;
-    max-width: calc(100vh * (1920 / 1080));
-    max-height: calc(100vw * (1080 / 1920));
+    max-width: calc(100vh * (1708 / 960));
+    max-height: calc(100vw * (960 / 1708));
 }
 
 .fundo {
