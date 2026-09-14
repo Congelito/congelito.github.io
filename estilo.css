@@ -36,10 +36,10 @@ html, body {
 
 .sprite {
     position: absolute;
-    width: 27%;          
+    width: 24%;     
     height: auto;
-    left: 53%;             
-    top: 60%;
+    left: 50%;      
+    top: 63%;          
     transform: translate(-50%, -50%);
     z-index: 10;
     cursor: pointer;
