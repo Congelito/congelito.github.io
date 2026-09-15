@@ -1,6 +1,7 @@
 const vento = document.getElementById("vento");
+const congelito = document.getElementById("congelito");
 
-document.addEventListener("click", function() {
+congelito.addEventListener("click", function() {
     vento.volume = 0;
 
     vento.play().then(() => {
